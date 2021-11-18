@@ -1,0 +1,35 @@
+.btn {
+  color: #fff;
+
+  padding: 5px;
+  border-radius: 4px;
+  border: none;
+  margin: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-weight: bold;
+}
+.join_us {
+  background: rgb(13, 119, 155);
+}
+.settings {
+  background: rgb(87, 154, 199);
+}
+.login {
+  background: rgb(214, 166, 9);
+}
+.contact_us {
+  background: rgb(90, 8, 8);
+}
+.search {
+  background: rgb(0, 255, 0);
+}
+.help {
+  background: purple;
+}
+.home {
+  background: rgb(216, 66, 91);
+}
+.download {
+  background: rgb(116, 116, 61);
+}
